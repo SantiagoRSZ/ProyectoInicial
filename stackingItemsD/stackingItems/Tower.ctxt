@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tower
+comment0.text=\r\n\ Clase\ Tower\ que\ representa\ una\ torre\ de\ tazas\ en\ el\ simulador\ stackingItems.\r\n\ Permite\ crear\ la\ torre\ y\ manejar\ las\ tazas\ agreg\u00E1ndolas,\ elimin\u00E1ndolas\ desde\r\n\ la\ cima\ o\ eliminando\ una\ taza\ espec\u00EDfica.\r\n\ Tambi\u00E9n\ permite\ consultar\ si\ la\ \u00FAltima\ operaci\u00F3n\ fue\ exitosa.\r\n\ \r\n\ Esta\ clase\ forma\ parte\ del\ ciclo\ 1\ del\ proyecto,\ implementando\ create\ tower\r\n\ y\ manage\ cup.\r\n
+comment1.params=width\ maxHeight
+comment1.target=Tower(int,\ int)
+comment1.text=\r\n\ Crea\ la\ torre\ con\ un\ ancho\ y\ una\ altura\ m\u00E1xima.\r\n\ Inicializa\ la\ lista\ de\ tazas\ vac\u00EDa\ y\ establece\ el\ estado\ inicial\ como\ exitoso.\r\n\ \r\n\ @param\ width\ ancho\ de\ la\ torre\r\n\ @param\ maxHeight\ altura\ m\u00E1xima\ permitida\ para\ la\ torre\r\n
+comment2.params=i
+comment2.target=void\ pushCup(int)
+comment2.text=\r\n\ Agrega\ una\ taza\ a\ la\ parte\ superior\ de\ la\ torre.\r\n\ La\ taza\ se\ agrega\ al\ final\ de\ la\ lista,\ representando\ la\ cima\ de\ la\ torre.\r\n\ \r\n\ @param\ i\ n\u00FAmero\ de\ la\ taza\ que\ se\ desea\ agregar\r\n
+comment3.params=
+comment3.target=void\ popCup()
+comment3.text=\r\n\ Elimina\ la\ taza\ que\ se\ encuentra\ en\ la\ cima\ de\ la\ torre.\r\n\ Si\ la\ torre\ est\u00E1\ vac\u00EDa,\ la\ operaci\u00F3n\ falla.\r\n
+comment4.params=i
+comment4.target=void\ removeCup(int)
+comment4.text=\r\n\ Elimina\ una\ taza\ espec\u00EDfica\ de\ la\ torre\ seg\u00FAn\ su\ n\u00FAmero.\r\n\ Si\ la\ taza\ no\ existe\ en\ la\ torre,\ la\ operaci\u00F3n\ falla.\r\n\ \r\n\ @param\ i\ n\u00FAmero\ de\ la\ taza\ que\ se\ desea\ eliminar\r\n
+comment5.params=
+comment5.target=boolean\ ok()
+comment5.text=\r\n\ Devuelve\ el\ estado\ de\ la\ \u00FAltima\ operaci\u00F3n\ realizada.\r\n\ \r\n\ @return\ true\ si\ la\ operaci\u00F3n\ fue\ exitosa,\ false\ si\ fall\u00F3\r\n
+numComments=6

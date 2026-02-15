@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TowerTest
+comment1.params=
+comment1.target=void\ shouldCreateTowerOkTrue()
+comment2.params=
+comment2.target=void\ shouldPushCup()
+comment3.params=
+comment3.target=void\ shouldPopCup()
+comment4.params=
+comment4.target=void\ shouldRemoveCup()
+comment5.params=
+comment5.target=void\ shouldFailPopCupWhenEmpty()
+comment6.params=
+comment6.target=void\ shouldFailRemoveCupWhenNotFound()
+numComments=7
