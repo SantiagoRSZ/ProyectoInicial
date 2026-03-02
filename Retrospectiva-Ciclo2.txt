@@ -1,0 +1,29 @@
+Retrospectiva Alejandro Ospina y Santiago Rojas:
+
+1. Nosotros definimos  mini-ciclos para este ciclo. 
+	mini-ciclo1: se hacía cargo de implementar el constructor tower y su diagrama
+	mini-ciclo2: Cumplía con los diagramas de secuencia y la implementación del metodo cover
+	mini-ciclo3: implementar swap y swaaptoreduce.
+	mini-ciclo4: hacer las pruebas unitarias de esos metodos.
+
+2. el proyecto en este momento se encuentra empezando mini-ciclo 3, ya que no se ha podido implementar swaptoreduce.
+
+3. Cada uno de Nosotros obtimizo:
+	Santiago Rojas: 11 horas
+	Alejandro Ospina : 9 horas
+
+4. El mayor logro para este ciclo fue el mejor manejo de nuestro tiempo y el hecho de que los  nuevos métodos a implementar además de los del anterior ciclo, fueron la mayoria de mayor entendimiento. demostradno más aprendizaje
+
+5. El mayor problema tecnico fue tratar de implementar SwapToReduce, y no lo hemos podido resolver. seguimos intentandole.
+
+6.la comunicación fue nuestro fuerte y estuvimos siempre pendientes a la entrega y a los acuerdos. en que podríamos mejorar puede ser en encontrar una forma más efectiva en la que podamos dividir el trabajo dependiendo de las mejores cualidades e cada uno.
+
+7. En nuestro caso pair programming por la dínamica y el menor tiempo en desarollar lo importante que estabamos haciendo. la dínamica y el trabajo fueron claves en este ciclo.
+
+8. Algunas Fuentes Utilizadas:
+
+- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley.
+
+- Barker, J. (2005). Beginning Java objects: From concepts to code (2nd ed.). Apress.
+
+-OpenAI. (2026). ChatGPT [Large language model]. https://chat.openai.com/ 
